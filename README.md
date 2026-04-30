@@ -88,37 +88,9 @@ O sistema pode funcionar online.
 A IA pode responder rapidamente.
 O objetivo é facilitar tarefas.
 A PD AI pode inspirar pessoas.
-Ela mostra que tecnologia é poderosa.
-A inteligência artificial está crescendo.
-A PD AI faz parte dessa evolução.
-A IA pode criar oportunidades.
-Pode ajudar jovens sonhadores.
-Também pode ajudar trabalhadores.
-O futuro da tecnologia é grande.
-A PD AI quer crescer junto.
-Ela pode ensinar programação.
-Também pode ajudar em negócios digitais.
-A IA pode ajudar na criatividade.
-A marca pode ser conhecida mundialmente.
-A PD AI pode evoluir todos os dias.
-Ela pode receber atualizações.
-O projeto pode ter comunidade.
-Pessoas podem acompanhar o crescimento.
-A IA pode ter novas ferramentas.
-Pode ter novos recursos.
-Também pode criar experiências únicas.
-O sistema é flexível.
-Ele pode melhorar muito.
-A PD AI pode ser usada para aprender.
-Também para criar projetos.
-Ela pode ajudar em apresentações.
-Pode gerar textos inteligentes.
-A IA representa inovação digital.
-O objetivo é continuar evoluindo.
-A marca foi criada com visão.
-Ela pode se tornar importante.
-A tecnologia está em todos os lugares.
-A PD AI também pode estar.
+
+
+
 A IA pode ajudar na educação.
 Também pode ajudar no trabalho.
 Ela pode gerar ideias criativas.
@@ -144,13 +116,7 @@ A marca representa criatividade.
 A PD AI pode inspirar pessoas.
 Ela pode incentivar novos sonhos.
 O sistema pode crescer rapidamente.
-A IA pode alcançar muitos lugares.
-O objetivo é expandir constantemente.
-A PD AI pode criar oportunidades digitais.
-O projeto pode ganhar reconhecimento internacional.
-A IA pode ajudar criadores online.
-Também pode ajudar empresas digitais.
-O sistema pode melhorar ex
+
 export default function IAChatPDStudio() {
   return (
     <div className="min-h-screen bg-black text-white flex items-center justify-center p-6">
